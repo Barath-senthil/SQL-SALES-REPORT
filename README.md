@@ -1,27 +1,30 @@
-📌 Project Overview
-This project demonstrates a Sales Data Analysis using SQL queries.
-The dataset contains sales transactions, products, customers, and revenue details.
-🛠 Tools Used
-SQL (MySQL / PostgreSQL)
-GitHub
+<h1 align="center">HR Data Analysis using SQL (Mini Project)</h1>
 
-📂 Project Structure
-DATA SET – Raw sales data
-SQL CODE – Queries for analysis and reporting
+<hr>
 
-🔍 Key Analysis Performed
-Total Sales & Revenue Calculation
-Monthly Sales Report
-Top-Selling Products
-Customer-wise Sales Analysis
-Profit & Performance Insights
+<h3>📌 Overview</h3>
+<p>
+This mini project uses SQL to analyze HR employee data and extract meaningful insights.
+</p>
 
-🎯 Key Skills Demonstrated
-SELECT, WHERE, GROUP BY
-JOIN Operations
-Aggregate Functions (SUM, COUNT, AVG)
-Subqueries
-Data Filtering & Sorting
+<h3>🎯 Objective</h3>
+<ul>
+<li>Analyze employee performance</li>
+<li>Examine department-wise data</li>
+<li>Identify salary and promotion trends</li>
+</ul>
 
-🚀 Outcome
-Generated meaningful business insights from raw sales data using SQL queries.
+<h3>🛠 Tools Used</h3>
+<ul>
+<li>MySQL / SQL Server</li>
+<li>SQL (SELECT, WHERE, GROUP BY, JOIN, ORDER BY)</li>
+</ul>
+
+<h3>📊 Analysis Performed</h3>
+<ul>
+<li>Department-wise employee count</li>
+<li>Average salary by department</li>
+<li>Top performing employees</li>
+<li>Employees eligible for promotion</li>
+<li>Experience vs Salary analysis</li>
+</ul>
